@@ -10,8 +10,8 @@ Este repositorio contiene los archivos generados para la construcción de una p�
 
 ### Uso
 
-Una vista previa de la página puede ser vista en el siguiente [enlace](#).
+Una vista previa de la página puede ser vista en el siguiente [enlace](https://roaloch.github.io/CUCEI-landingPage/).
 
 ### Licencia
 
-[MIT](#).
+[MIT](https://github.com/ROALOCH/CUCEI-landingPage/blob/master/LICENSE)
