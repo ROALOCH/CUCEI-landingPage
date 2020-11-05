@@ -10,7 +10,7 @@ Este repositorio contiene los archivos generados para la construcción de una p�
 
 ### Uso
 
-Una vista previa de la página puede ser vista en el siguiente [enlace](https://roaloch.github.io/CUCEI-landingPage/).
+Una vista previa de la página puede ser vista en el siguiente [enlace](https://roaloch.github.io/cucei-landing-page/).
 
 ### Licencia
 
